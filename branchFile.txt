@@ -1,0 +1,1 @@
+new_branch: New file created from 'new_branch' branch from CLI
